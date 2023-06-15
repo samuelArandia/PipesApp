@@ -1,5 +1,6 @@
 # PipesApp
-
+![image](https://github.com/samuelArandia/PipesApp/assets/83564327/ea3f8b69-8a6c-4ee9-8abe-9cc2ea271132)
+In this project we use prime ng, prime flex, and create our own pipes. 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
 
 ## Development server
